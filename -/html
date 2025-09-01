@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Restaurante Santa Maria Bar</title>
+  </head>
+  <body>
+    <div class="container">
+      <header>
+        <h1>Nuestro Restó <br>Carta</h1>
+      </header>
+
+      <nav>
+        <ul>
+          <li><a href="#entradas">Entradas</a></li>
+          <li><a href="#principais">Pratos principais</a></li>
+          <li><a href="#sobremesas">Sobremesas</a></li>
+          <li><a href="">Saladas</a></li>
+          <li><a href="">Crus</a></li>
+          <li><a href="">Cafés da manhãs e Lanches</a></li>
+          <li><a href="">Bebidas</a></li>
+          <li><a href="">Smoothies</a></li>
+          <li><a href="">Chá e Café</a></li>
+          <li><a href="">Vinhos</a></li>
+          <li><a href="">Cervejas</a></li>
+        </ul>
+      </nav>
+
+      <main>
+        <section id="entradas" class="subsecao">
+          <h2>Entradas</h2>
+          <img
+            src="./img/foto-entradas.jpg"
+            alt="entradas"
+            id="foto-entradas"
+          />
+          <article>
+            <h3>Tiras de mussarela</h3>
+            <p>Tiras mozzarella assados</p>
+          </article>
+
+          <article>
+            <h3>Jalapeños recheados</h3>
+            <p>Jalapeños recheados com camarão e queijo cheddar com bacon.</p>
+          </article>
+
+          <article>
+            <h3>Ração Rabas</h3>
+            <p>220 gr. de torresmos de lula frito com alioli</p>
+          </article>
+
+          <article>
+            <h3>Porção de batatas fritas com Cheddar e bacon</h3>
+          </article>
+
+          <article>
+            <h3>Asas de frango</h3>
+            <p>Torta de Asas de frango e frito com molho de churrasco</p>
+          </article>
+
+          <article>
+            <h3>Croquetes de cogumelos</h3>
+            <p>Croquetes feitos de cogumelos dissecados.</p>
+          </article>
+
+          <article>
+            <h3>Camarão rei em cuzcuz</h3>
+            <p>Camarões grelhados com nozes, tomate cereja e manjericão</p>
+          </article>
+
+          <article>
+            <h3>Bebês de Lula grelhado</h3>
+            <p>Com manga e melancia grelhada</p>
+          </article>
+
+          <article>
+            <h3>Nachos com reescar</h3>
+            <p>
+              Nachos refogados com feijão preto, chouriço vermelho e molho
+              barbecue
+            </p>
+          </article>
+
+          <article>
+            <h3>Cobertura de pudim preto</h3>
+            <p>Pão caseiro de campo, muzzarela e queijo brie.</p>
+          </article>
+
+          <article>
+            <h3>Cobertura de campo</h3>
+            <p>Chouriço de sangue, batata, chutney de maçã e creme de endro</p>
+          </article>
+
+          <article>
+            <h3>Tampa de moela</h3>
+            <p>Pão doce com manga, abacaxi, gengibre, pimenta e pipoca.</p>
+          </article>
+        </section>
+
+        <section id="principais" class="subsecao">
+          <h2>Pratos principais</h2>
+          <img src="./img/foto-ppal.jpg" alt="principais" id="foto-principais"/>
+
+          <article>
+            <h3>Bife Criollo</h3>
+            <p>
+              Ribeye com patos andinos, salada de rúcula, provolone e molho
+              crioulo
+            </p>
+          </article>
+          <article>
+            <h3>Salada Caesar</h3>
+            <p>Clássica, com frango ou camarão</p>
+          </article>
+
+          <article>
+            <h3>Penne Rigatte</h3>
+            <p>Com bife, creme ou molho de rosa.</p>
+          </article>
+
+          <article>
+            <h3>Salada de camarão rei</h3>
+            <p>
+              camarões refogados, trabalhado, cebolinha com molho de laranja,
+              vinagre e azeite.
+            </p>
+          </article>
+
+          <article>
+            <h3>Ceviche (feito na época)</h3>
+            <p>
+              Pesca Dia Chinatown com cebola roxa, alho, pimenta, aipo, coentro,
+              gengibre, campo de milho, batata-doce e leite de tigre.
+            </p>
+          </article>
+
+          <article>
+            <h3>Pesca com Chop Suey</h3>
+            <p>
+              Dia de pesca grelhado com azeitonas, alho e alcaparras,
+              acompanhado de vegetais chop suey.
+            </p>
+          </article>
+
+          <article>
+            <h3>Pesca na grelha</h3>
+            <p>Com risoto verde de espargos e beterraba assada.</p>
+          </article>
+
+          <article>
+            <h3>Bife T-Bone</h3>
+            <p>
+              600 g de carne com chimichurri t-osso, patins andinas e beterrabas
+              em conserva.
+            </p>
+          </article>
+
+          <article>
+            <h3>Pechuguitas defumados</h3>
+            <p>
+              Peito de frango defumado, recheado com cogumelos e duxelle de
+              cebola.
+            </p>
+          </article>
+
+          <article>
+            <h3>Carré de cerdo</h3>
+            <p>
+              Chutney com cenouras e batatas doces são de vidro com molho
+              teriyaki.
+            </p>
+          </article>
+
+          <article>
+            <h3>Sorrentinos verdes</h3>
+            <p>
+              Recheado com abóbora assada e queijo brie, perfumado com manteiga
+              de ervas e sumo de toranja.
+            </p>
+          </article>
+        </section>
+
+        <section id="sobremesas" class="subsecao">
+          <h2>Sobremesas</h2>
+          <img src="./img/foto-postre.jpg" alt="sobremesas" id="foto-sobremesas"/>
+
+          <article>
+            <h3>Creme caseiro</h3>
+            <p>Nosso pudim clássico com doce de leite e creme.</p>
+          </article>
+
+          <article>
+            <h3>Salada de frutas</h3>
+          </article>
+
+          <article>
+            <h3>Fondue de chocolate</h3>
+            <p>Com frutas frescas em filetes.</p>
+          </article>
+
+          <article>
+            <h3>Crocante de Banana e Nutella</h3>
+          </article>
+
+          <article>
+            <h3>Degustação de Mousses</h3>
+            <p>Mousse de manga, chocolate, moca e frutas vermelhas.</p>
+          </article>
+
+          <article>
+            <h3>Cheesecake</h3>
+          </article>
+        </section>
+ </main>
+    
+        <footer>
+          <div class="footer-inner">
+            <div class="footer-left">
+              <img src="./img/logo-web.png" alt=" Santa Maria Bar Logo" class="footer-logo"/>
+            </div>
+
+            <div class="footer-right">
+              <p><strong>Contato</strong></p>
+              <a href="#">Facebook</a>
+              <a href="#">Twitter</a>
+              <a href="#">Instagram</a>
+            </div>
+          </div>
+        </footer>
+     </div>
+  </body>
+</html>
